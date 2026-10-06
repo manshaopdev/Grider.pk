@@ -1,0 +1,6 @@
+{
+  "name": "PakLogo Studio - Pakistan Logo Maker & Admin Suite",
+  "description": "Professional Pakistani logo designer with vector & high-res export, Urdu calligraphy, background remover, JazzCash payments, biometric security, and admin income tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
